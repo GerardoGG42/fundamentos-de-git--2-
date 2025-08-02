@@ -1,8 +1,11 @@
 # Blog de Gatos
 
-Proyecto simple de blog en HTML que muestra artículos sobre curiosidades de los gatos.
 
-## Estructura
+# Blog de Gatos
+
+Proyecto sencillo de blog en HTML que muestra artículos sobre curiosidades de los gatos.
+
+## Estructura del proyecto
 
 ```
 html_git_fundamentos/
@@ -12,11 +15,11 @@ html_git_fundamentos/
 ```
 
 - **blog.html**: Página principal del blog.
-- **imagenes/**: Carpeta de imágenes usadas en los artículos.
+- **imagenes/**: Carpeta con imágenes usadas en los artículos.
 
 ## Descripción
 
-El blog contiene varios artículos repetidos sobre gatos, cada uno con:
+El blog contiene varios artículos sobre gatos, cada uno con:
 - Título
 - Descripción breve
 - Imagen
@@ -29,7 +32,7 @@ El blog contiene varios artículos repetidos sobre gatos, cada uno con:
 
 ## Contacto
 
-Para dudas o sugerencias: cositas@gmail.com
+Para dudas o sugerencias: info@gatos.com
 
 ---
 © 2023 Blog de gatos
